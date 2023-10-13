@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\bin\Debug\LabelGUI.exe.config
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\bin\Debug\LabelGUI.exe
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\bin\Debug\LabelGUI.pdb
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.Form1.resources
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.exe
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.pdb
+C:\Users\DELL\source\repos\LabelGUI\LabelGUI\obj\Debug\LabelGUI.Form2.resources
