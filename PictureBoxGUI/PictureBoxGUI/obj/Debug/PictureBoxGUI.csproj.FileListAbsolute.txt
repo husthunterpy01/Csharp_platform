@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\bin\Debug\PictureBoxGUI.exe.config
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\bin\Debug\PictureBoxGUI.exe
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\bin\Debug\PictureBoxGUI.pdb
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.Form1.resources
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.exe
+C:\Users\DELL\source\repos\PictureBoxGUI\PictureBoxGUI\obj\Debug\PictureBoxGUI.pdb
