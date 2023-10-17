@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.Form1.resources
+C:\Users\DELL\source\repos\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.csproj.CoreCompileInputs.cache
