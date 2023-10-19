@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\bin\Debug\TreeViewGUI.exe.config
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\bin\Debug\TreeViewGUI.exe
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\bin\Debug\TreeViewGUI.pdb
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\obj\Debug\TreeViewGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\obj\Debug\TreeViewGUI.Form1.resources
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\obj\Debug\TreeViewGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\obj\Debug\TreeViewGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\obj\Debug\TreeViewGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\obj\Debug\TreeViewGUI.exe
+C:\Users\DELL\source\repos\TreeViewGUI\TreeViewGUI\obj\Debug\TreeViewGUI.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\bin\Debug\TooltipGUI.exe.config
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\bin\Debug\TooltipGUI.exe
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\bin\Debug\TooltipGUI.pdb
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\obj\Debug\TooltipGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\obj\Debug\TooltipGUI.Form1.resources
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\obj\Debug\TooltipGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\obj\Debug\TooltipGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\obj\Debug\TooltipGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\obj\Debug\TooltipGUI.exe
+C:\Users\DELL\source\repos\TooltipGUI\TooltipGUI\obj\Debug\TooltipGUI.pdb
