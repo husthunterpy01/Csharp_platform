@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\bin\Debug\ThreadGUI.exe.config
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\bin\Debug\ThreadGUI.exe
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\bin\Debug\ThreadGUI.pdb
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\obj\Debug\ThreadGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\obj\Debug\ThreadGUI.Form1.resources
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\obj\Debug\ThreadGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\obj\Debug\ThreadGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\obj\Debug\ThreadGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\obj\Debug\ThreadGUI.exe
+C:\Users\DELL\source\repos\ThreadGUI\ThreadGUI\obj\Debug\ThreadGUI.pdb

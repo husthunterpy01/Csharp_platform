@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\bin\Debug\ContextMenuGUI.exe.config
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\bin\Debug\ContextMenuGUI.exe
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\bin\Debug\ContextMenuGUI.pdb
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\obj\Debug\ContextMenuGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\obj\Debug\ContextMenuGUI.Form1.resources
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\obj\Debug\ContextMenuGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\obj\Debug\ContextMenuGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\obj\Debug\ContextMenuGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\obj\Debug\ContextMenuGUI.exe
+C:\Users\DELL\source\repos\ContextMenuGUI\ContextMenuGUI\obj\Debug\ContextMenuGUI.pdb
