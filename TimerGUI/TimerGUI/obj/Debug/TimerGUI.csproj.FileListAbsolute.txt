@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\bin\Debug\TimerGUI.exe.config
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\bin\Debug\TimerGUI.exe
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\bin\Debug\TimerGUI.pdb
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.Form1.resources
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.exe
+C:\Users\DELL\source\repos\TimerGUI\TimerGUI\obj\Debug\TimerGUI.pdb
