@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\bin\Debug\ProcessBarGUI.exe.config
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\bin\Debug\ProcessBarGUI.exe
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\bin\Debug\ProcessBarGUI.pdb
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\obj\Debug\ProcessBarGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\obj\Debug\ProcessBarGUI.Form1.resources
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\obj\Debug\ProcessBarGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\obj\Debug\ProcessBarGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\obj\Debug\ProcessBarGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\obj\Debug\ProcessBarGUI.exe
+C:\Users\DELL\source\repos\ProcessBarGUI\ProcessBarGUI\obj\Debug\ProcessBarGUI.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\DateTimePickerGUI.exe.config
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\DateTimePickerGUI.exe
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\bin\Debug\DateTimePickerGUI.pdb
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\DateTimePickerGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\DateTimePickerGUI.Form1.resources
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\DateTimePickerGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\DateTimePickerGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\DateTimePickerGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\DateTimePickerGUI.exe
+C:\Users\DELL\source\repos\DateTimePickerGUI\DateTimePickerGUI\obj\Debug\DateTimePickerGUI.pdb

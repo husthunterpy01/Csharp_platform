@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\NumericUpDownGUI.exe.config
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\NumericUpDownGUI.exe
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\bin\Debug\NumericUpDownGUI.pdb
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\NumericUpDownGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\NumericUpDownGUI.Form1.resources
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\NumericUpDownGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\NumericUpDownGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\NumericUpDownGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\NumericUpDownGUI.exe
+C:\Users\DELL\source\repos\NumericUpDownGUI\NumericUpDownGUI\obj\Debug\NumericUpDownGUI.pdb
