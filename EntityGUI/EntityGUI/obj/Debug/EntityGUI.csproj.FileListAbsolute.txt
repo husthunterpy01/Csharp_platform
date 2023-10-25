@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.Form1.resources
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\bin\Debug\EntityGUI.exe.config
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\bin\Debug\EntityGUI.exe
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\bin\Debug\EntityGUI.pdb
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.csproj.CopyComplete
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.exe
+C:\Users\DELL\source\repos\EntityGUI\EntityGUI\obj\Debug\EntityGUI.pdb
