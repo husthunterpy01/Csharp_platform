@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\bin\Debug\USB_SecGUI.exe.config
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\bin\Debug\USB_SecGUI.exe
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\bin\Debug\USB_SecGUI.pdb
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\obj\Debug\USB_SecGUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\obj\Debug\USB_SecGUI.Form1.resources
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\obj\Debug\USB_SecGUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\obj\Debug\USB_SecGUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\obj\Debug\USB_SecGUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\obj\Debug\USB_SecGUI.exe
+C:\Users\DELL\source\repos\USB_SecGUI\USB_SecGUI\obj\Debug\USB_SecGUI.pdb
