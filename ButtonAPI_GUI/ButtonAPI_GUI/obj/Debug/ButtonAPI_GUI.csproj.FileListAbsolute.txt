@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\bin\Debug\ButtonAPI_GUI.exe.config
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\bin\Debug\ButtonAPI_GUI.exe
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\bin\Debug\ButtonAPI_GUI.pdb
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\obj\Debug\ButtonAPI_GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\obj\Debug\ButtonAPI_GUI.Form1.resources
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\obj\Debug\ButtonAPI_GUI.Properties.Resources.resources
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\obj\Debug\ButtonAPI_GUI.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\obj\Debug\ButtonAPI_GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\obj\Debug\ButtonAPI_GUI.exe
+C:\Users\DELL\source\repos\ButtonAPI_GUI\ButtonAPI_GUI\obj\Debug\ButtonAPI_GUI.pdb
