@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|c:\\users\\dell\\source\\repos\\eventhandlingsample\\eventhandlingsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|solutionrelative:eventhandlingsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|c:\\users\\dell\\source\\repos\\eventhandlingsample\\eventhandlingsample\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|solutionrelative:eventhandlingsample\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|c:\\users\\dell\\source\\repos\\eventhandlingsample\\eventhandlingsample\\subscriberb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|solutionrelative:eventhandlingsample\\subscriberb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|c:\\users\\dell\\source\\repos\\eventhandlingsample\\eventhandlingsample\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C69CB4-A9A0-48FE-BC14-F80ABA109F08}|EventHandlingSample\\EventHandlingSample.csproj|solutionrelative:eventhandlingsample\\subscribera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriberB.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\SubscriberB.cs",
+              "RelativeDocumentMoniker": "EventHandlingSample\\SubscriberB.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\SubscriberB.cs",
+              "RelativeToolTip": "EventHandlingSample\\SubscriberB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:55:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\Publisher.cs",
+              "RelativeDocumentMoniker": "EventHandlingSample\\Publisher.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\Publisher.cs",
+              "RelativeToolTip": "EventHandlingSample\\Publisher.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:54:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandlingSample\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\Program.cs",
+              "RelativeToolTip": "EventHandlingSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:52:03.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriberA.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\SubscriberA.cs",
+              "RelativeDocumentMoniker": "EventHandlingSample\\SubscriberA.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventHandlingSample\\EventHandlingSample\\SubscriberA.cs",
+              "RelativeToolTip": "EventHandlingSample\\SubscriberA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:55:46.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

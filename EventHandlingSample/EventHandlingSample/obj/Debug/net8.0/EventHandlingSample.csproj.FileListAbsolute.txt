@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\EventHandlingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\EventHandlingSample.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\EventHandlingSample.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\EventHandlingSample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\bin\Debug\net8.0\EventHandlingSample.exe
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\bin\Debug\net8.0\EventHandlingSample.deps.json
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\bin\Debug\net8.0\EventHandlingSample.runtimeconfig.json
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\bin\Debug\net8.0\EventHandlingSample.dll
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\bin\Debug\net8.0\EventHandlingSample.pdb
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\EventHandlingSample.dll
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\refint\EventHandlingSample.dll
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\EventHandlingSample.pdb
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\EventHandlingSample.genruntimeconfig.cache
+C:\Users\DELL\source\repos\EventHandlingSample\EventHandlingSample\obj\Debug\net8.0\ref\EventHandlingSample.dll
