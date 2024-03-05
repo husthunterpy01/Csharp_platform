@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|c:\\users\\dell\\source\\repos\\ex2\\ex2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|solutionrelative:ex2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|c:\\users\\dell\\source\\repos\\ex2\\ex2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|solutionrelative:ex2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|c:\\users\\dell\\source\\repos\\ex2\\ex2\\docmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|solutionrelative:ex2\\docmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|c:\\users\\dell\\source\\repos\\ex2\\ex2\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|solutionrelative:ex2\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|c:\\users\\dell\\source\\repos\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|c:\\users\\dell\\source\\repos\\ex2\\ex2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711DA572-3298-4BAC-B2CA-2F3CE2B31855}|Ex2\\Ex2.csproj|solutionrelative:ex2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Magazine.cs",
+              "RelativeDocumentMoniker": "Ex2\\Magazine.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Magazine.cs",
+              "RelativeToolTip": "Ex2\\Magazine.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA4wBkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:33:07.842Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocManager.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\DocManager.cs",
+              "RelativeDocumentMoniker": "Ex2\\DocManager.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\DocManager.cs",
+              "RelativeToolTip": "Ex2\\DocManager.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAgwK0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:39:39.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Document.cs",
+              "RelativeDocumentMoniker": "Ex2\\Document.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Document.cs",
+              "RelativeToolTip": "Ex2\\Document.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:33:50.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Newspaper.cs",
+              "RelativeDocumentMoniker": "Ex2\\Newspaper.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Newspaper.cs",
+              "RelativeToolTip": "Ex2\\Newspaper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:33:24.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Book.cs",
+              "RelativeDocumentMoniker": "Ex2\\Book.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Book.cs",
+              "RelativeToolTip": "Ex2\\Book.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:32:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ex2\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:31:22.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
