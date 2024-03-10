@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tom\\Documents\\Ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|c:\\users\\tom\\documents\\ex3\\ex3\\managercandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|solutionrelative:ex3\\managercandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|c:\\users\\tom\\documents\\ex3\\ex3\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|solutionrelative:ex3\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|c:\\users\\tom\\documents\\ex3\\ex3\\candidatec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|solutionrelative:ex3\\candidatec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|c:\\users\\tom\\documents\\ex3\\ex3\\candidatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|solutionrelative:ex3\\candidatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|c:\\users\\tom\\documents\\ex3\\ex3\\candidateb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|solutionrelative:ex3\\candidateb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|c:\\users\\tom\\documents\\ex3\\ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889B40D6-01A2-4F4E-9F31-FFDB38046B67}|Ex3\\Ex3.csproj|solutionrelative:ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerCandidate.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\ManagerCandidate.cs",
+              "RelativeDocumentMoniker": "Ex3\\ManagerCandidate.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\ManagerCandidate.cs",
+              "RelativeToolTip": "Ex3\\ManagerCandidate.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T03:57:59.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\Program.cs",
+              "RelativeToolTip": "Ex3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T02:53:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateC.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\CandidateC.cs",
+              "RelativeDocumentMoniker": "Ex3\\CandidateC.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\CandidateC.cs",
+              "RelativeToolTip": "Ex3\\CandidateC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:35:53.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateB.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\CandidateB.cs",
+              "RelativeDocumentMoniker": "Ex3\\CandidateB.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\CandidateB.cs",
+              "RelativeToolTip": "Ex3\\CandidateB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:35:49.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateA.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\CandidateA.cs",
+              "RelativeDocumentMoniker": "Ex3\\CandidateA.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\CandidateA.cs",
+              "RelativeToolTip": "Ex3\\CandidateA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:35:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\Candidate.cs",
+              "RelativeDocumentMoniker": "Ex3\\Candidate.cs",
+              "ToolTip": "C:\\Users\\Tom\\Documents\\Ex3\\Ex3\\Candidate.cs",
+              "RelativeToolTip": "Ex3\\Candidate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwB4AAADBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:35:33.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
