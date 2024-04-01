@@ -1,0 +1,6 @@
+@FluentAPISample_HostAddress = http://localhost:5071
+
+GET {{FluentAPISample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

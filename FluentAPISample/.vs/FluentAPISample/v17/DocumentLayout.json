@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Migrations\\20240401032933_Product2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FluentAPISample\\Migrations\\20240401032933_Product2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\data\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\data\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\data\\detailedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\data\\detailedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\data\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\data\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|c:\\users\\dell\\source\\repos\\fluentapisample\\fluentapisample\\fluentapisample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD44900F-0461-4C0F-9F4D-C5222C2547F1}|FluentAPISample\\FluentAPISample.csproj|solutionrelative:fluentapisample\\fluentapisample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240401032933_Product2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Migrations\\20240401032933_Product2.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Migrations\\20240401032933_Product2.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Migrations\\20240401032933_Product2.cs",
+              "RelativeToolTip": "FluentAPISample\\Migrations\\20240401032933_Product2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:29:34.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\appsettings.json",
+              "RelativeDocumentMoniker": "FluentAPISample\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\appsettings.json",
+              "RelativeToolTip": "FluentAPISample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T03:26:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Program.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Program.cs",
+              "RelativeToolTip": "FluentAPISample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:24:21.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\Type.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Data\\Type.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\Type.cs",
+              "RelativeToolTip": "FluentAPISample\\Data\\Type.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:07:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "FluentAPISample\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:02:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\Product.cs",
+              "RelativeToolTip": "FluentAPISample\\Data\\Product.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:56:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailedOrder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\DetailedOrder.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Data\\DetailedOrder.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\DetailedOrder.cs",
+              "RelativeToolTip": "FluentAPISample\\Data\\DetailedOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:53:13.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Data\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\OrderStatus.cs",
+              "RelativeToolTip": "FluentAPISample\\Data\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:47:56.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "FluentAPISample\\Data\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\Data\\Order.cs",
+              "RelativeToolTip": "FluentAPISample\\Data\\Order.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:44:53.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FluentAPISample",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\FluentAPISample.csproj",
+              "RelativeDocumentMoniker": "FluentAPISample\\FluentAPISample.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\FluentAPISample\\FluentAPISample\\FluentAPISample.csproj",
+              "RelativeToolTip": "FluentAPISample\\FluentAPISample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T02:44:12.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 186,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
