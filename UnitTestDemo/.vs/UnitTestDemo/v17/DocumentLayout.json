@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA9FA222-A777-47AC-AB5F-21FBB43835B3}|UnitTestDemo.Test\\UnitTestDemo.Test.csproj|c:\\users\\dell\\source\\repos\\unittestdemo\\unittestdemo.test\\employeecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA9FA222-A777-47AC-AB5F-21FBB43835B3}|UnitTestDemo.Test\\UnitTestDemo.Test.csproj|solutionrelative:unittestdemo.test\\employeecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|c:\\users\\dell\\source\\repos\\unittestdemo\\unittestdemo\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|solutionrelative:unittestdemo\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|c:\\users\\dell\\source\\repos\\unittestdemo\\unittestdemo\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|solutionrelative:unittestdemo\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|c:\\users\\dell\\source\\repos\\unittestdemo\\unittestdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|solutionrelative:unittestdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|c:\\users\\dell\\source\\repos\\unittestdemo\\unittestdemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|solutionrelative:unittestdemo\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|c:\\users\\dell\\source\\repos\\unittestdemo\\unittestdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AFEFBF-10A6-410A-A2D0-C58CED18F470}|UnitTestDemo\\UnitTestDemo.csproj|solutionrelative:unittestdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 991,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo.Test\\EmployeeControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTestDemo.Test\\EmployeeControllerTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo.Test\\EmployeeControllerTest.cs",
+              "RelativeToolTip": "UnitTestDemo.Test\\EmployeeControllerTest.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAqwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:13:57.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Program.cs",
+              "RelativeToolTip": "UnitTestDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:11:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "UnitTestDemo\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "UnitTestDemo\\Service\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:41:36.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "UnitTestDemo\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "UnitTestDemo\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:41:29.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "UnitTestDemo\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Model\\Employee.cs",
+              "RelativeToolTip": "UnitTestDemo\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:41:21.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "UnitTestDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\UnitTestDemo\\UnitTestDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "UnitTestDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:40:59.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 686,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
