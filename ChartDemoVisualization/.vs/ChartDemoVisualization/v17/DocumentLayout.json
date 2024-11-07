@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\viewmodels\\pages\\chartpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\viewmodels\\pages\\chartpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\viewmodels\\pages\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\viewmodels\\pages\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\viewmodels\\pages\\dataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\viewmodels\\pages\\dataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\helpers\\dummylogdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\helpers\\dummylogdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\viewmodels\\pages\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\viewmodels\\pages\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\views\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\models\\dummylogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\models\\dummylogdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\views\\pages\\datapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\views\\pages\\datapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\views\\pages\\chartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\views\\pages\\chartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\models\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\services\\applicationhostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\services\\applicationhostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\services\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\services\\pageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\resources\\translations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\resources\\translations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\viewmodels\\windows\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\viewmodels\\windows\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\views\\pages\\datapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\views\\pages\\datapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\views\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\views\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|c:\\users\\tom\\source\\repos\\chartdemovisualization\\chartdemovisualization\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A7EEAAD-F641-40B5-992C-1EE1D8F9F61B}|ChartDemoVisualization\\ChartDemoVisualization.csproj|solutionrelative:chartdemovisualization\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\ViewModels\\Pages\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:52:27.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\ChartPageViewModel.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\ViewModels\\Pages\\ChartPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\ChartPageViewModel.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\ViewModels\\Pages\\ChartPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:48:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\DataViewModel.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\ViewModels\\Pages\\DataViewModel.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\DataViewModel.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\ViewModels\\Pages\\DataViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:47:26.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DummyLogDataGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Helpers\\DummyLogDataGenerator.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Helpers\\DummyLogDataGenerator.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Helpers\\DummyLogDataGenerator.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Helpers\\DummyLogDataGenerator.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAUwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:36:48.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\ViewModels\\Pages\\SettingsViewModel.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:08:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml",
+              "RelativeToolTip": "ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T13:46:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DummyLogData.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Models\\DummyLogData.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Models\\DummyLogData.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Models\\DummyLogData.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Models\\DummyLogData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:09:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DataPage.xaml",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Views\\Pages\\DataPage.xaml",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DataPage.xaml",
+              "RelativeToolTip": "ChartDemoVisualization\\Views\\Pages\\DataPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T13:46:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Models\\AppConfig.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Models\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Models\\AppConfig.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Models\\AppConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:07:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChartPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\ChartPage.xaml",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Views\\Pages\\ChartPage.xaml",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\ChartPage.xaml",
+              "RelativeToolTip": "ChartDemoVisualization\\Views\\Pages\\ChartPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T13:49:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationHostService.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Services\\ApplicationHostService.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Services\\ApplicationHostService.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Services\\ApplicationHostService.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Services\\ApplicationHostService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:08:03.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PageService.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Services\\PageService.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Services\\PageService.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Services\\PageService.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Services\\PageService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:07:58.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Translations.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Resources\\Translations.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Resources\\Translations.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Resources\\Translations.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Resources\\Translations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:07:54.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\App.xaml.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\App.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAawDYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:49:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Views\\Pages\\DashboardPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:50:08.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DataPage.xaml.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\Views\\Pages\\DataPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\Views\\Pages\\DataPage.xaml.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\Views\\Pages\\DataPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:50:24.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ChartDemoVisualization\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Tom\\source\\repos\\ChartDemoVisualization\\ChartDemoVisualization\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ChartDemoVisualization\\ViewModels\\Windows\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA8wA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:47:53.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
